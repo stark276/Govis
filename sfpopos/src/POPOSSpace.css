@@ -1,0 +1,13 @@
+.POPOSSpace {
+  background-color: rgb(244, 235, 235);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.POPOSSpace {
+  width: 100%;
+  text-align: center;
+}
+
+.POPOSSpace > img {
+  width: 100%;
+  height: auto;
+}
